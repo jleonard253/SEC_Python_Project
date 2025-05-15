@@ -29,8 +29,8 @@ pip install -r requirements.txt
 ```
 ## Live Notebook Preview
 
-You can view the rendered notebook here:  
-[Group 3 Final Project – HTML View](https://jleonard253.github.io/SEC_Python_Project/notebooks/Group%203%20Final%20Project.html)
+You can view the cleaned, final HTML notebook here:  
+[Group 3 Final Project – HTML View (Cleaned)](https://jleonard253.github.io/SEC_Python_Project/Group%203%20Final%20Project%20-%20Cleaned.html)
 
 Typical libraries used:
 - `pandas`
