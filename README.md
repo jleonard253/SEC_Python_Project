@@ -2,7 +2,7 @@
 
 This repository contains the final project for my University of Iowa MBA Python course. Our project explores the strategic patterns of investment advisory firms in the U.S. and their relationship to the distribution of high-net-worth clients.
 
-##Project Description
+## Project Description
 
 Investment firms are pivotal in helping clients achieve long-term financial goals. Using Form ADV data from the SEC, we analyzed:
 
@@ -13,7 +13,7 @@ Investment firms are pivotal in helping clients achieve long-term financial goal
 
 Our dataset includes 15,964 rows and 469 columns from February 2025.
 
-##File Structure
+## File Structure
 
 - `notebooks/Group 3 Final Project.ipynb`: Main analysis notebook.
 - `notebooks/Group 3 Final Project.html`: Rendered version for review.
@@ -22,11 +22,15 @@ Our dataset includes 15,964 rows and 469 columns from February 2025.
 - `references/Project Proposal-Final.docx`: Group project proposal.
 - `requirements.txt`: Dependencies list for reproducibility.
 
-##Requirements
+## Requirements
 
 ```bash
 pip install -r requirements.txt
 ```
+## Live Notebook Preview
+
+You can view the rendered notebook here:  
+[Group 3 Final Project – HTML View](https://jleonard253.github.io/SEC_Python_Project/notebooks/Group%203%20Final%20Project.html)
 
 Typical libraries used:
 - `pandas`
