@@ -1,10 +1,10 @@
-# MBA Python Final Project – MoneyMagnets
+# MBA Python Group Project
 
-This repository contains the final project for Group 3 ("MoneyMagnets") in our MBA Python course. Our project explores the strategic patterns of investment advisory firms in the U.S. and their relationship to the distribution of high-net-worth clients.
+This repository contains the final project for my University of Iowa MBA Python course. Our project explores the strategic patterns of investment advisory firms in the U.S. and their relationship to the distribution of high-net-worth clients.
 
-## 🧠 Project Description
+##Project Description
 
-Investment firms are pivotal in helping clients achieve long-term financial goals. Using Form ADV data from the SEC, we analyze:
+Investment firms are pivotal in helping clients achieve long-term financial goals. Using Form ADV data from the SEC, we analyzed:
 
 - How the distribution of high-net-worth individuals (HNWI) varies by firm size, geographic location, and compensation model.
 - What firm characteristics are most associated with the ability to attract and retain HNWI.
@@ -13,7 +13,7 @@ Investment firms are pivotal in helping clients achieve long-term financial goal
 
 Our dataset includes 15,964 rows and 469 columns from February 2025.
 
-## 📁 File Structure
+##File Structure
 
 - `notebooks/Group 3 Final Project.ipynb`: Main analysis notebook.
 - `notebooks/Group 3 Final Project.html`: Rendered version for review.
@@ -22,7 +22,7 @@ Our dataset includes 15,964 rows and 469 columns from February 2025.
 - `references/Project Proposal-Final.docx`: Group project proposal.
 - `requirements.txt`: Dependencies list for reproducibility.
 
-## 🔧 Requirements
+##Requirements
 
 ```bash
 pip install -r requirements.txt
@@ -35,7 +35,7 @@ Typical libraries used:
 - `seaborn`
 - `jupyter`
 
-## 👥 Team: Group 3 – "MoneyMagnets"
+##Team: Group 3 – "MoneyMagnets"
 
 - Dhanya Menon  
 - Timothy Jacobs  
